@@ -1,0 +1,5 @@
+0 - Inconclusive
+1 - B2B
+2 - B2C
+3 - Both
+
