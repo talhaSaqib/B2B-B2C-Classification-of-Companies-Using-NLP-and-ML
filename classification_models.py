@@ -92,7 +92,7 @@ class Classifier(object):
                             ('classifier', classifier)
                             ])
 
-            logger.info("Pipleline Created")
+            logger.info("Pipleline Created") 
             return pipeline_both
         except Exception as e:
             logger.error(e)
